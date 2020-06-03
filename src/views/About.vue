@@ -10,7 +10,7 @@
     </p>
     <p>
       using
-      <a href="https://github.com/axios/axios">axios</a> librery and
+      <a href="https://github.com/axios/axios">axios</a> library and
       <a href="https://rickandmortyapi.com/">Rick and Morty API</a>.
     </p>
     <p><a href="https://source.unsplash.com/collection/10578086">🥚</a></p>
