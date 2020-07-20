@@ -1,5 +1,10 @@
 # rickmortyapi
 
+Work in progress
+
+[Live on Netlify: https://searchchar-rickandmorty.netlify.app/](https://searchchar-rickandmorty.netlify.app/)
+
+
 ## Project setup
 ```
 npm install
